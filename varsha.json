@@ -1,21 +1,26 @@
 {
-	"palette": {
-		"primary": {
-			"main": "#1d1b1b"
+	"id": "varsha",
+	"name": "Varsha",
+	"url": "https://github.com/codelitdev/courselit-themes/varsha.json",
+	"styles": {
+		"palette": {
+			"primary": {
+				"main": "#1d1b1b"
+			},
+			"secondary": {
+				"main": "#ec4d37",
+				"dark": "#eee"
+			},
+			"error": {
+				"main": "ff1744"
+			},
+			"background": {
+				"default": "#f5f5f5"
+			},
+			"contrastThreshold": 3
 		},
-		"secondary": {
-			"main": "#ec4d37",
-			"dark": "#eee"
-		},
-		"error": {
-			"main": "ff1744"
-		},
-		"background": {
-			"default": "#f5f5f5"
-		},
-		"contrastThreshold": 3
-	},
-	"overrides": {
-		"drawerWidth": 240
+		"overrides": {
+			"drawerWidth": 240
+		}
 	}
 }
