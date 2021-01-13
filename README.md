@@ -9,3 +9,4 @@ To access the theme editor, log in with an admin account, go to the `Design` pag
 ## Browse
 
 1. <a href="/varsha.json">Varsha</a>
+2. <a href="/dark.json">Dark</a>
