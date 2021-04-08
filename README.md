@@ -1,4 +1,4 @@
-# Themes For CourseLit LMS
+# CourseLit Themes
 This repo contains open source themes for [CourseLit](https://github.com/codelitdev/courselit) LMS.
 
 ## Installing a theme
