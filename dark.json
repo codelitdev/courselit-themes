@@ -1,6 +1,6 @@
 {
    "id": "dark",
    "name": "Dark",
-   "styles": "{\"palette\":{\"mode\":\"dark\"}}",
+   "styles": {"palette":{"mode":"dark"}},
    "url": "https://raw.githubusercontent.com/codelitdev/courselit-themes/master/dark.json"
 }
